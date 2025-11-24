@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+Pillow
+opencv-python-headless
+ultralytics
+sahi
+bcos
+torch
+torchvision
+captum
+lime
+scikit-image
